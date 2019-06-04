@@ -1,0 +1,26 @@
+body {
+  background-color: #FFFFFF;
+}
+
+#one {
+  padding: 25px;
+  background-color: #baffc9;
+  font-size: 22px;
+  font-family: sans-serif;
+  width: 400px;
+}
+
+#two {
+  padding: 25px;
+  background-color: #baffc9;
+  font-size: 25px;
+  font-family: sans-serif;
+  width: 400px;
+}
+
+h1 {
+  padding: 15px;
+  padding-right: 35px;
+  background-color: #baffc9;
+  width: 400px;
+}
